@@ -134,8 +134,8 @@ github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/taubyte/go-interfaces v0.1.0 h1:Z7M/XftIjOzgm4dm46acgJf4vT5t0a4YIpmwr2bo9Hw=
 github.com/taubyte/go-interfaces v0.1.0/go.mod h1:bU/3ar9f4U/fQR4EWRqO9JWY5KefvlM9VWgG/ky5R7s=
-github.com/tetratelabs/wazero v1.0.0-rc.1.0.20230314055619-ced301183757 h1:bTvKkm+OWD9rU9omz7aZAc5FoKmLfjTcNkEDJnVZTyU=
-github.com/tetratelabs/wazero v1.0.0-rc.1.0.20230314055619-ced301183757/go.mod h1:wYx2gNRg8/WihJfSDxA1TIL8H+GkfLYm+bIfbblu9VQ=
+github.com/tetratelabs/wazero v1.0.3 h1:IWmaxc/5vKg71DE+c0SLjjLFAA3u3tD/Zegpgif2Wpo=
+github.com/tetratelabs/wazero v1.0.3/go.mod h1:wYx2gNRg8/WihJfSDxA1TIL8H+GkfLYm+bIfbblu9VQ=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
